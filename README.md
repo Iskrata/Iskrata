@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iskren</h1>
 <h3 align="center">I'm passionate about developing web and mobile applications, and constantly strive to improve my skills and knowledge.</h3>
 
-- 🔭 I’m currently working on [my graduation thesis](https://github.com/Book-Ward)
-
 - 🌱 I’m currently learning **Nuxt 3 and Tailwind**
 
 - 💬 Ask me about **Vue and Java**
